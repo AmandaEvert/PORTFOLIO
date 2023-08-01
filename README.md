@@ -1,3 +1,3 @@
 # PORTFOLIO  -
-## About me _
+## About me -
 
