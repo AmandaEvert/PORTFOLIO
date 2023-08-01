@@ -5,5 +5,17 @@ Lately, I've been spending my evenings exploring the fascinating world of softwa
 ## Courses ##
 Podstawy Manualnego Testowania Oprogramowania (Udemy)
 Testy Automatycznew praktyce + Python (Dare IT)
+## Tools ##
+Jira - bug tracker
+Trello - project management
+TestRail - test cases management
+Slack - for communication within the team
+Chrome DevTools - for testing and to improve bug reports
+Selenium WebDriver - for automated testing of web applications
+## Blogs I read ##
+testerzy.pl
+testerka.pl
+remigiuszbednarczyk.pl.pl
+wyszkolewas.com.pl
 
 
