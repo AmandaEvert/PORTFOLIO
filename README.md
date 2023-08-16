@@ -5,7 +5,7 @@ Lately, I've been spending my evenings exploring the fascinating world of softwa
 
 ## Courses ##
 * Podstawy Manualnego Testowania Oprogramowania (Udemy)
-* Testy Automatycznew praktyce + Python (Dare IT)
+* Testy Automatyczne w praktyce + Python (Dare IT)
 * Postman - testowanie REST API (Udemy)
 
 ## Tools ##
