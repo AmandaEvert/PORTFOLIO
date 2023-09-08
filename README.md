@@ -7,6 +7,8 @@ Lately, I've been spending my evenings exploring the fascinating world of softwa
 * Podstawy Manualnego Testowania Oprogramowania (Udemy)
 * Testy Automatyczne w praktyce + Python (Dare IT)
 * Postman - testowanie REST API (Udemy)
+* Kurs SQL od podstaw | MySQL (Udemy)
+* Kurs Jira od podstaw - zarządzanie projektami (Udemy)
 
 ## Tools ##
 - Jira - bug tracker
@@ -15,6 +17,7 @@ Lately, I've been spending my evenings exploring the fascinating world of softwa
 - Slack - for communication within the team
 - Chrome DevTools - for testing and to improve bug reports
 - Selenium WebDriver - for automated testing of web applications
+- Postman - REST API Testing
 
 ## Blogs I read ##
 testerzy.pl<br>
