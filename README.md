@@ -4,12 +4,12 @@ My name is Anita Krakowska. My expertise lies in the analysis of taxpayers at th
 Lately, I've been spending my evenings exploring the fascinating world of software development and quality assurance. I've taken up online courses and self-study to learn various testing methodologies and automation tools. I've even started to write some code to get a feel for the technical side of things. In the future, I see myself thriving as a successful software tester, making a real impact on the development of innovative software solutions. I want to be part of a team that crafts exceptional products and enhances the lives of countless users. So, here's to chasing dreams, to embracing new adventures, and to never giving up on the things that ignite our passion. I'm excited about this path I've chosen, and I can't wait to see where it leads me. With determination and an open mind, I know I can make my dream a reality.
 
 ## Courses ##
-* Podstawy Manualnego Testowania Oprogramowania (Udemy)
-* Testy Automatyczne w praktyce + Python (Dare IT)
-* Postman - testowanie REST API (Udemy)
-* Kurs SQL od podstaw | MySQL (Udemy)
-* Kurs Jira od podstaw - zarządzanie projektami (Udemy)
-
+* Fundamentals of Manual Software Testing (Udemy)
+* Practical Automated Testing + Python (Dare IT)
+* Postman - Testing REST API (Udemy)
+* SQL Fundamentals Course | MySQL (Udemy)
+* Jira Fundamentals Course - Project Management (Udemy)
+  
 ## Tools ##
 - Jira - bug tracker
 - Trello - project management
